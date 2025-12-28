@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+textblob
+nltk
+matplotlib
+pyaudio
